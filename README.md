@@ -1,5 +1,5 @@
 # ADMM_PINNs
-This repository contains the source code for the paper "The ADMM-PINNs Algorithmic Framework for Nonsmooth PDE-Constrained Optimization: A Deep Learning Approach" by Yongcun Song, Xiaoming Yuan, and Hangrui Yue. The paper can be found on arXiv:2302.08309.
+This repository contains the source code for the paper "The ADMM-PINNs Algorithmic Framework for Nonsmooth PDE-Constrained Optimization: A Deep Learning Approach" by Yongcun Song, Xiaoming Yuan, and Hangrui Yue. The paper can be found on [arXiv:2302.08309](https://arxiv.org/abs/2302.08309).
 ## Requirements
 To run the code in this repository, you will need the following packages:
 
