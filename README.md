@@ -20,5 +20,5 @@ The source code for solving the Inverse Potential Problem.
 The source code for solving the Control Constrained Optimal Control of the Burgers Equation.
 ### 'SourceID'
 The source code for Discontinuous Source Identification for Elliptic PDEs.
-### case 'L1Control'
+### 'L1Control'
 The source code for solving Sparse Optimal Control of Parabolic Equations. 
